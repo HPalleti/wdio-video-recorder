@@ -1,6 +1,6 @@
 {
   "name": "wdio-video-recorder",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "title": "WebdriverIO test recording with ffmpeg",
   "description": "Records WebdriverIO tests. Uses ffmpeg to capture screen (remote)",
   "keywords": [
