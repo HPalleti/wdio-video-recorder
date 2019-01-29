@@ -1,4 +1,4 @@
-![alt text](http://webdriver.io/images/webdriverio.png)
+![alt text](https://webdriver.io/img/webdriverio.png)
 
 # WebdriverIO test recording with ffmpeg
 Records [WebdriverIO](http://webdriver.io/) tests.  
